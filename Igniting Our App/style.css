@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.parent {
+    text-align: center;
+}
+
+.bg-chocolate {
+    background-color: chocolate;
+}
+
+.blue {
+    color: blue
+}
